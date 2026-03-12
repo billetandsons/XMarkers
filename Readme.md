@@ -1,5 +1,3 @@
-
-
 # AB Markers Market — After Effects Marker Workflow Tools
 
 Two companion ExtendScript (`.jsx`) utilities for After Effects that work together to create and navigate a marker-based timing system for broadcast/post workflows.
